@@ -35,8 +35,8 @@
 <br>
 
 <p align="left">
-  <img src="./images/3-1.png" width="50%" height="50%"/>
-  <img src="./images/1-7.png" width="45%" height="120%"/>
+  <img src="./images/3-1.png" width="50%" height="100%"/>
+  <img src="./images/1-7.png" width="45%" height="600"/>
  </p>
 <br><br>
 
