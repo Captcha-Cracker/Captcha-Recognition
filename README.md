@@ -36,7 +36,7 @@
 
 <p align="left">
   <img src="./images/3-1.png" width="45%" height="60%"/>
-  <img src="./images/1-7.png" width="50%" height="650"/>
+  <img src="./images/1-7.png" width="50%" height="600"/>
  </p>
 <br><br>
 
