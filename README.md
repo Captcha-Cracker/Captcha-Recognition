@@ -1,6 +1,8 @@
 <img src="./images/1-1.png" width="100%" height="100%"/>
 <br>
 
+<img src="https://www.youtube.com/watch?v=sXXgJ3_jxvI">
+
 * People
   * [Yeongjin Kim](https://github.com/kyj950514 "김영진")
   * [Jaeho Lee](https://github.com/Jaeho-99 "이재호")
