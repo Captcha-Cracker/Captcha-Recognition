@@ -2,7 +2,7 @@
 <br>
 
 * People
-  * [YeongjinKim]: https://github.com/kyj950514
+  * [Yeongjin Kim]: https://github.com/kyj950514
   * [Jaeho Lee] (https://github.com/Jaeho-99)
   * [Chankyu Lee] (https://github.com/poco7250)
   * [Chaelin Ko] (https://github.com/chaelin2)
@@ -35,11 +35,9 @@
 <br>
 
 <p align="left">
-  <img src="./images/1-3.png" width="45%" height="60%"/>
+  <img src="./images/3-1.png" width="45%" height="60%"/>
   <img src="./images/1-7.png" width="45%" height="60%"/>
  </p>
- <img src="./images/1-4.png" width="45%" height="60%"/>
- <img src="./images/1-5.png" width="45%" height="60%"/>
 <br><br>
 
 * Optimizer
