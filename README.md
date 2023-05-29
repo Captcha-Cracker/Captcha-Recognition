@@ -15,7 +15,7 @@
     * <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=React&logoColor=white"/>
     * <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=React&logoColor=white"/>
     * <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=React&logoColor=white"/>
-    * <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=React&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=React&logoColor=white"/>
   * Chrome Extension
     * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
     * <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=React&logoColor=white"/>
