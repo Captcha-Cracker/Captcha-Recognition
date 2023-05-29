@@ -50,5 +50,5 @@
 <br><br>
 
 * Result
-<img src="./images/1-2.png" width="70%" height="100%"/>
+<img src="./images/1-2.png" width="50%" height="80%"/>
 <br>
