@@ -3,10 +3,10 @@
 
 * People
   * [Yeongjin Kim](https://github.com/kyj950514 "김영진")
-  * [Jaeho Lee] (https://github.com/Jaeho-99)
-  * [Chankyu Lee] (https://github.com/poco7250)
-  * [Chaelin Ko] (https://github.com/chaelin2)
-  * [Seoyeon Choo] (https://github.com/ChooSeoyeon)
+  * [Jaeho Lee](https://github.com/Jaeho-99 "이재호")
+  * [Chankyu Lee](https://github.com/poco7250 "이찬규")
+  * [Chaelin Ko](https://github.com/chaelin2 "고채린")
+  * [Seoyeon Choo](https://github.com/ChooSeoyeon "추서연")
 <br><br>
 
 * Language / IDE
