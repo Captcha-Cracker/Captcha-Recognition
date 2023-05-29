@@ -11,15 +11,14 @@
 
 * Language / IDE
   * ML
-    * Python
-    * Google Colab (Pro ver. A100 GPU)
-    * TensorFlow
-    * Pandas
-    * Scikit-learn
-    * <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=React&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=React&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=React&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=React&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat&logo=React&logoColor=white"/>
   * Chrome Extension
-    * JavaScript
-    * Visual Studio Code
+    * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=React&logoColor=white"/>
 <br><br><br>
 
 * Dataset
@@ -36,11 +35,11 @@
 <br>
 
 <p align="left">
-  <img src="./images/1-3.png" width="45%" height="50%"/>
-  <img src="./images/1-4.png" width="45%" height="50%"/>
-  <img src="./images/1-5.png" width="45%" height="50%"/>
-  <img src="./images/1-7.png" width="45%" height="50%"/>
+  <img src="./images/1-3.png" width="45%" height="60%"/>
+  <img src="./images/1-4.png" width="45%" height="60%"/>
+  <img src="./images/1-5.png" width="45%" height="60%"/>
 </p>
+<img src="./images/1-7.png" width="45%" height="50%"/>
 <br><br>
 
 * Optimizer
