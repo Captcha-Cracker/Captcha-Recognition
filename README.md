@@ -43,8 +43,8 @@
 * Optimizer
   * Adam
   * Lr = 0.001
-  * 64 Batch
-  * 200 Epoch
+  * Batch size = 64
+  * Epochs = 200
 <img src="./images/1-6.png" width="60%" height="60%"/>
 <br><br>
 
