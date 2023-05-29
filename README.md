@@ -4,7 +4,7 @@
 * <h1>YouTube
 <br>
 
-[![Video Label](http://img.youtube.com/vi/sXXgJ3_jxvI/0.jpg)](https://youtu.be/sXXgJ3_jxvI)
+[![Video Label](http://img.youtube.com/vi/sXXgJ3_jxvI/0.jpg align=center)](https://youtu.be/sXXgJ3_jxvI)
 
 <br><br><br><br>
 
