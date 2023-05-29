@@ -1,9 +1,6 @@
 # Captcha-Recognition
 <br><br>
 
-Captcha Cracker
--------------
-<br>
 <img src="./images/1-1.png" width="100%" height="100%"/>
 <br><br>
 
@@ -11,7 +8,7 @@ Captcha Cracker
   * Yeongjin Kim
   * Jaeho Lee
   * Chankyu Lee
-  * Chaelin Ko
+  * Chaerin Ko
   * Seoyeon Choo
 <br>
 
