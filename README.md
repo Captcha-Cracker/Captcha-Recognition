@@ -28,7 +28,7 @@
   <img src="./images/3.png" width="30%" height="30%"/>
   <img src="./images/1-8.png" width="100%" height="100"/>
 </p>
-<br><br>
+<br><br><br>
 
 * Model
   * OCR (Conv-pool-Conv-pool-bidirectional-bidirectional)
