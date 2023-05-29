@@ -31,7 +31,7 @@
 <br><br><br>
 
 * Model
-  * OCR (Conv-pool-Conv-pool-bidirectional-bidirectional)
+  * OCR (CNN-LSTM-CTC)
 <br>
 
 <p align="left">
