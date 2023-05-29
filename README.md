@@ -22,7 +22,7 @@
 <br><br>
 
 * Dataset
-  * 110,000 images
+  * 111,070 images
 <p align="left">
   <img src="./images/2.png" width="30%" height="30%"/>
   <img src="./images/3.png" width="30%" height="30%"/>
