@@ -52,7 +52,7 @@
 <img src="./images/1-2.png" width="50%" height="80%"/>
 <br><br>
 
-<h1>YouTube
+YouTube
 -------------
 [![Video Label](http://img.youtube.com/vi/sXXgJ3_jxvI/0.jpg)](https://youtu.be/sXXgJ3_jxvI)
 <br>
