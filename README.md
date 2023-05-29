@@ -3,9 +3,10 @@
 
 * YouTube
 <br>
-<p align="center">
+
+<img src="[image_src](https://youtu.be/sXXgJ3_jxvI)" height="100px" width="300px">
   [![Video Label](http://img.youtube.com/vi/sXXgJ3_jxvI/0.jpg)](https://youtu.be/sXXgJ3_jxvI)
-</p>
+
 <br><br>
 
 * People
