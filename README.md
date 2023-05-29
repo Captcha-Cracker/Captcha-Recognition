@@ -31,7 +31,7 @@
 <br><br><br>
 
 * Model
-  * OCR (CNN-LSTM-CTC)
+  * OCR (CNN - LSTM - CTC)
 <br>
 
 <p align="left">
