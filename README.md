@@ -19,7 +19,7 @@
   * Chrome Extension
     * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
     * <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=React&logoColor=white"/>
-<br><br><br>
+<br><br>
 
 * Dataset
   * 110000 images (Train : 99000, Test: 11000)
@@ -50,5 +50,5 @@
 <br><br>
 
 * Result
-<img src="./images/1-2.png" width="40%" height="40%"/>
+<img src="./images/1-2.png" width="70%" height="100%"/>
 <br>
