@@ -1,7 +1,7 @@
 <img src="./images/1-1.png" width="100%" height="100%"/>
 <br>
 
-<img src="https://www.youtube.com/watch?v=sXXgJ3_jxvI">
+[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://youtu.be/sXXgJ3_jxvI)
 
 * People
   * [Yeongjin Kim](https://github.com/kyj950514 "김영진")
