@@ -7,7 +7,7 @@
   * [Chankyu Lee](https://github.com/poco7250 "이찬규")
   * [Chaelin Ko](https://github.com/chaelin2 "고채린")
   * [Seoyeon Choo](https://github.com/ChooSeoyeon "추서연")
-<br><br>
+<br><br><br>
 
 * Language / IDE
   * ML
