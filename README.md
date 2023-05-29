@@ -32,7 +32,6 @@
 
 * Model
   * OCR (CNN - LSTM - CTC Loss)
-<br>
 
 <p align="left">
   <img src="./images/3-1.png" width="50%" height="50%"/>
