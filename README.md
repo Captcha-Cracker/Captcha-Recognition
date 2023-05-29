@@ -4,8 +4,6 @@
 * YouTube
 <br>
 
-<img src="(https://youtu.be/sXXgJ3_jxvI" height="100px" width="300px">
-
 [![Video Label](http://img.youtube.com/vi/sXXgJ3_jxvI/0.jpg)](https://youtu.be/sXXgJ3_jxvI)
 
 <br><br>
