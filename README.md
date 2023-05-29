@@ -2,7 +2,7 @@
 <br>
 
 * People
-  * [Yeongjin Kim]: https://github.com/kyj950514
+  * Yeongjin Kim [Yeongjin Kim]: https://github.com/kyj950514
   * [Jaeho Lee] (https://github.com/Jaeho-99)
   * [Chankyu Lee] (https://github.com/poco7250)
   * [Chaelin Ko] (https://github.com/chaelin2)
