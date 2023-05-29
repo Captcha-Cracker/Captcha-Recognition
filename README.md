@@ -1,15 +1,5 @@
-Captcha
--------------
-<img src="./images/4-1.png" width="100%" height="100%"/>
-<br><br><br><br>
-
-YouTube
--------------
-<br>
-
-[![Video Label](http://img.youtube.com/vi/sXXgJ3_jxvI/0.jpg)](https://youtu.be/sXXgJ3_jxvI)
-
-<br><br><br><br>
+<img src="./images/1-1.png" width="100%" height="100%"/>
+<br><br>
 
 * People
   * [Yeongjin Kim](https://github.com/kyj950514 "김영진")
@@ -60,4 +50,8 @@ YouTube
 
 * Result
 <img src="./images/1-2.png" width="50%" height="80%"/>
+<br><br>
+
+* YouTube
+[![Video Label](http://img.youtube.com/vi/sXXgJ3_jxvI/0.jpg)](https://youtu.be/sXXgJ3_jxvI)
 <br>
