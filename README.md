@@ -41,7 +41,6 @@
 <br><br>
 
 * Optimizer
-  * He
   * Adam
   * Lr = 0.001
   * 64 Batch
