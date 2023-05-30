@@ -44,11 +44,11 @@
   * Lr = 0.001
   * Batch size = 64
   * Epochs = 100
-<img src="./images/4-2.png" width=60%" height="60%"/>
 <img src="./images/1-6.png" width="50%" height="60%"/>
 <br><br>
 
 * Result
+<img src="./images/4-2.png" width="60%" height="60%"/>
 <img src="./images/1-2.png" width="50%" height="80%"/>
 <br><br>
 
