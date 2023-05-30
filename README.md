@@ -50,7 +50,8 @@
 * Result
   * Train Accuracy : 45.07%
   * Val Accuracy : 59.35%
-<img src="./images/4-2.png" width="80%" height="200"/>
+<img src="./images/4-2.png" width="80%" height="170"/>
+<br>
 <img src="./images/1-2.png" width="50%" height="80%"/>
 <br><br>
 
