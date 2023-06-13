@@ -13,15 +13,15 @@
 
 * Language / IDE
   * ML
-    * <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/>
-    * <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=React&logoColor=white"/>
-    * <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=React&logoColor=white"/>
-    * <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=React&logoColor=white"/>
-    * <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=React&logoColor=white"/>
-    * <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=React&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
   * Chrome Extension
-    * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
-    * <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=React&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+    * <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 <br/><br/>
 
