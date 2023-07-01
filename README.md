@@ -55,7 +55,6 @@
 * Val Accuracy : 59.35%
 
 <img src="./images/4-2.png" width="80%" height="170"/>
-
 <img src="./images/1-2.png" width="40%" height="70%"/>
 
 ## YouTube
