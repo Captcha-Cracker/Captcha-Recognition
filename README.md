@@ -1,7 +1,5 @@
 <img src="./images/1-1.png" width="100%" height="100%"/>
 
-<br/>
-
 ## People
 
 * [Yeongjin Kim](https://github.com/kyj950514 "김영진")
@@ -9,8 +7,6 @@
 * [Chankyu Lee](https://github.com/poco7250 "이찬규")
 * [Chaelin Ko](https://github.com/chaelin2 "고채린")
 * [Seoyeon Choo](https://github.com/ChooSeoyeon "추서연")
-
-<br/>
 
 ## Language / IDE
 
@@ -25,8 +21,6 @@
   * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   * <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
-<br/>
-
 ## Dataset
 
 * 113,006 images
@@ -37,8 +31,6 @@
  <img src="./images/1-8.png" width="100%" height="100"/>
 </p>
 
-<br/>
-
 ## Model
   
 * OCR (CNN - LSTM - CTC Loss)
@@ -47,8 +39,6 @@
   <img src="./images/3-1.png" width="50%" height="50%"/>
   <img src="./images/1-7.png" width="45%" height="600"/>
  </p>
-
-<br/>
 
 ## Optimizer
 
@@ -59,8 +49,6 @@
 
 <img src="./images/1-6.png" width="50%" height="60%"/>
 
-<br/>
-
 ## Result
 
 * Train Accuracy : 45.07%
@@ -68,11 +56,7 @@
 
 <img src="./images/4-2.png" width="80%" height="170"/>
 
-<br/>
-
 <img src="./images/1-2.png" width="40%" height="70%"/>
-
-<br/>
 
 ## YouTube
 [![Video Label](http://img.youtube.com/vi/sXXgJ3_jxvI/0.jpg)](https://youtu.be/sXXgJ3_jxvI)
