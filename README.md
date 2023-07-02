@@ -25,11 +25,8 @@
 
 * 113,006 images
 
-<p align="left">
- <img src="./images/2.png" width="30%" height="30%"/>
- <img src="./images/3.png" width="30%" height="30%"/>
- <img src="./images/1-8.png" width="100%" height="100%"/>
-</p>
+<img src="./images/2.png" width="60%" height="60%"/>
+<img src="./images/3.png" width="60%" height="60%"/>
 
 ## Model
   
