@@ -25,17 +25,17 @@
 
 * 113,006 images
 
-<img src="./images/2.png" width="60%" height="60%"/>
-<img src="./images/3.png" width="60%" height="60%"/>
+<p align="left">
+ <img src="./images/4-2.png" width="80%" height="70%"/>
+ <img src="./images/4-2.png" width="100%" height="100%"/>
+ <img src="./images/1-2.png" width="40%" height="70%"/>
+</p>
 
 ## Model
   
 * OCR (CNN - LSTM - CTC Loss)
 
-<p align="left">
-  <img src="./images/3-1.png" width="50%" height="50%"/>
-  <img src="./images/1-7.png" width="45%" height="100%"/>
- </p>
+<img src="./images/3-1.png" width="60%" height="60%"/>
 
 ## Optimizer
 
