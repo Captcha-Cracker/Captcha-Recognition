@@ -28,7 +28,7 @@
 <p align="left">
  <img src="./images/2.png" width="30%" height="30%"/>
  <img src="./images/3.png" width="30%" height="30%"/>
- <img src="./images/1-8.png" width="100%" height="100"/>
+ <img src="./images/1-8.png" width="100%" height="100%"/>
 </p>
 
 ## Model
@@ -37,7 +37,7 @@
 
 <p align="left">
   <img src="./images/3-1.png" width="50%" height="50%"/>
-  <img src="./images/1-7.png" width="45%" height="600"/>
+  <img src="./images/1-7.png" width="45%" height="100%"/>
  </p>
 
 ## Optimizer
