@@ -35,7 +35,7 @@
   
 * OCR (CNN - LSTM - CTC Loss)
 
-<img src="./images/3-1.png" width="100%" height="100%"/>
+<img src="./images/3-1.png" width="70%" height="70%"/>
 
 ## Optimizer
 
